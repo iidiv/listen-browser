@@ -1,0 +1,25 @@
+{
+  "name": "idiv-listen-browser",
+  "version": "1.0.0",
+  "description": "listen browser\\'s status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "browser-listener",
+    "listener",
+    "javascript",
+    "listener",
+    "browser",
+    "status"
+  ],
+  "author": {
+    "name": "idiv",
+    "email": "915939795@qq.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "idiv-utils": "^1.0.0"
+  }
+}
